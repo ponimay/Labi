@@ -1,0 +1,45 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Laba 5-6/1.0.0": {
+        "dependencies": {
+          "WinForms.DataVisualization": "1.8.0-pr"
+        },
+        "runtime": {
+          "Laba 5-6.dll": {}
+        }
+      },
+      "WinForms.DataVisualization/1.8.0-pr": {
+        "runtime": {
+          "lib/net6.0-windows7.0/WinForms.DataVisualization.Utilities.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.8.0.0"
+          },
+          "lib/net6.0-windows7.0/WinForms.DataVisualization.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.8.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Laba 5-6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinForms.DataVisualization/1.8.0-pr": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MAv2G394CGNxZ8KgCR+lNVxs10RlyU9L2+I+zeW8XsqYQu9dAFByegeEittdkTUqdIkeeBIjyXcY2mmBazZqKQ==",
+      "path": "winforms.datavisualization/1.8.0-pr",
+      "hashPath": "winforms.datavisualization.1.8.0-pr.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Laba 10\Laba 10\bin\Debug\net6.0-windows\Laba 10.exe
+C:\Users\User\source\repos\Laba 10\Laba 10\bin\Debug\net6.0-windows\Laba 10.deps.json
+C:\Users\User\source\repos\Laba 10\Laba 10\bin\Debug\net6.0-windows\Laba 10.runtimeconfig.json
+C:\Users\User\source\repos\Laba 10\Laba 10\bin\Debug\net6.0-windows\Laba 10.dll
+C:\Users\User\source\repos\Laba 10\Laba 10\bin\Debug\net6.0-windows\Laba 10.pdb
+C:\Users\User\source\repos\Laba 10\Laba 10\obj\Debug\net6.0-windows\Laba 10.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Laba 10\Laba 10\obj\Debug\net6.0-windows\Laba_10.Form1.resources
+C:\Users\User\source\repos\Laba 10\Laba 10\obj\Debug\net6.0-windows\Laba 10.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Laba 10\Laba 10\obj\Debug\net6.0-windows\Laba 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Laba 10\Laba 10\obj\Debug\net6.0-windows\Laba 10.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Laba 10\Laba 10\obj\Debug\net6.0-windows\Laba 10.AssemblyInfo.cs
+C:\Users\User\source\repos\Laba 10\Laba 10\obj\Debug\net6.0-windows\Laba 10.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Laba 10\Laba 10\obj\Debug\net6.0-windows\Laba 10.dll
+C:\Users\User\source\repos\Laba 10\Laba 10\obj\Debug\net6.0-windows\refint\Laba 10.dll
+C:\Users\User\source\repos\Laba 10\Laba 10\obj\Debug\net6.0-windows\Laba 10.pdb
+C:\Users\User\source\repos\Laba 10\Laba 10\obj\Debug\net6.0-windows\Laba 10.genruntimeconfig.cache
+C:\Users\User\source\repos\Laba 10\Laba 10\obj\Debug\net6.0-windows\ref\Laba 10.dll
